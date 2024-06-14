@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\Media\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2880737896" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainBank</ObjectPath>
+			<ShortName>MainBank</ShortName>
+			<Path>MainBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1038839729" Name="BGMusic" ObjectPath="\Events\Default Work Unit\BGMusic"/>
+				<Event Id="779278001" Name="Death" ObjectPath="\Events\Default Work Unit\Death"/>
+				<Event Id="13776098" Name="Explosion" ObjectPath="\Events\Default Work Unit\Explosion"/>
+				<Event Id="2539580210" Name="IntroMusic" ObjectPath="\Events\Default Work Unit\IntroMusic"/>
+				<Event Id="3950429679" Name="PowerUp" ObjectPath="\Events\Default Work Unit\PowerUp"/>
+				<Event Id="2174516238" Name="ShipHit" ObjectPath="\Events\Default Work Unit\ShipHit"/>
+				<Event Id="3038207054" Name="Shoot" ObjectPath="\Events\Default Work Unit\Shoot"/>
+				<Event Id="1758897770" Name="Thruster" ObjectPath="\Events\Default Work Unit\Thruster"/>
+				<Event Id="658262618" Name="TripleShoot" ObjectPath="\Events\Default Work Unit\TripleShoot"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="202253688" Language="SFX">
+					<ShortName>Thruster.wav</ShortName>
+					<Path>SFX\Thruster_8956FC97.wem</Path>
+				</File>
+				<File Id="272431605" Language="SFX">
+					<ShortName>BGMusic.wav</ShortName>
+					<Path>SFX\BGMusic_8956FC97.wem</Path>
+				</File>
+				<File Id="412224124" Language="SFX">
+					<ShortName>IntroMusic.wav</ShortName>
+					<Path>SFX\IntroMusic_8956FC97.wem</Path>
+				</File>
+				<File Id="468892572" Language="SFX">
+					<ShortName>Explosion2.wav</ShortName>
+					<Path>SFX\Explosion2_56D34C19.wem</Path>
+				</File>
+				<File Id="617031433" Language="SFX">
+					<ShortName>TripleShoot.wav</ShortName>
+					<Path>SFX\TripleShoot_8956FC97.wem</Path>
+				</File>
+				<File Id="721809455" Language="SFX">
+					<ShortName>Powerup.wav</ShortName>
+					<Path>SFX\Powerup_56D34C19.wem</Path>
+				</File>
+				<File Id="762050735" Language="SFX">
+					<ShortName>Laser_Shoot.wav</ShortName>
+					<Path>SFX\Laser_Shoot_8956FC97.wem</Path>
+				</File>
+				<File Id="773766002" Language="SFX">
+					<ShortName>Death.wav</ShortName>
+					<Path>SFX\Death_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

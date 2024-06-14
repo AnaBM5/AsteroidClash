@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	13776098	Explosion			\Default Work Unit\Explosion	
+	1758897770	Thruster			\Default Work Unit\Thruster	
+	3038207054	Shoot			\Default Work Unit\Shoot	
+	3950429679	PowerUp			\Default Work Unit\PowerUp	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1237275451	Octave_Up	Wwise Pitch Shifter			
+	2781261543	Brick_Wall_Minus_6dB_Peak_Slow_Release	Wwise Peak Limiter			
+	3216246379	Space_Dreaming	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	202253688	Thruster	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Asteroids_HIGHSCORE\Blit3Dv3\WwiseProjects\TestProject\.cache\Windows\SFX\Thruster_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Thruster		282398
+	468892572	Explosion	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Asteroids_HIGHSCORE\Blit3Dv3\WwiseProjects\TestProject\.cache\Windows\SFX\Explosion2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Explosion		31404
+	721809455	PowerUp	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Asteroids_HIGHSCORE\Blit3Dv3\WwiseProjects\TestProject\.cache\Windows\SFX\Powerup_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\PowerUp		50402
+	762050735	Shoot	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Asteroids_HIGHSCORE\Blit3Dv3\WwiseProjects\TestProject\.cache\Windows\SFX\Laser_Shoot_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot		14408
+

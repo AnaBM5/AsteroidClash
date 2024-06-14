@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	13776098	Explosion			\Default Work Unit\Explosion	
+	658262618	TripleShoot			\Default Work Unit\TripleShoot	
+	779278001	Death			\Default Work Unit\Death	
+	1038839729	BGMusic			\Default Work Unit\BGMusic	
+	1758897770	Thruster			\Default Work Unit\Thruster	
+	2174516238	ShipHit			\Default Work Unit\ShipHit	
+	2539580210	IntroMusic			\Default Work Unit\IntroMusic	
+	3038207054	Shoot			\Default Work Unit\Shoot	
+	3950429679	PowerUp			\Default Work Unit\PowerUp	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1237275451	Octave_Up	Wwise Pitch Shifter			
+	2781261543	Brick_Wall_Minus_6dB_Peak_Slow_Release	Wwise Peak Limiter			
+	3216246379	Space_Dreaming	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	202253688	Thruster	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\Thruster_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Thruster		282398
+	272431605	BGMusic	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\BGMusic_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\BGMusic		2365244
+	412224124	IntroMusic	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\IntroMusic_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\IntroMusic		2857744
+	468892572	Explosion	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\Explosion2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Explosion		31404
+	617031433	TripleShoot	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\TripleShoot_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\TripleShoot		14408
+	721809455	PowerUp	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\Powerup_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\PowerUp		50402
+	762050735	Shoot	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\Laser_Shoot_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot		14408
+	773766002	Death	C:\Users\anabm\Documents\Classes\SoundDesign\Darren\Audio_Asteroids\Blit3Dv3\WWiseProject\TestProject\.cache\Windows\SFX\Death_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death		50590
+

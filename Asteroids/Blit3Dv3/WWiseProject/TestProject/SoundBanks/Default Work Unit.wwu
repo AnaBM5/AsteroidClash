@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A1BB8F77-4E6C-4B80-A912-9C4C76430B1C}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A1BB8F77-4E6C-4B80-A912-9C4C76430B1C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MainBank" ID="{D02B97EC-B538-4AEC-96F6-2A0734CCA082}">
+					<ObjectInclusionList>
+						<ObjectRef Name="TripleShoot" ID="{A7537F0A-6838-40FC-96CC-F2B1F1558EE4}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Explosion" ID="{AAFE6BC7-9C00-4116-B6D7-841242AD7531}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="PowerUp" ID="{2B56D9B5-5030-4403-A556-4502815DE7CA}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="IntroMusic" ID="{628CD832-80B0-4797-A094-3A20EDE706FE}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Shoot" ID="{091DF24B-F57B-47F7-86D7-9FDB3ADC0678}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BGMusic" ID="{27362293-27BA-48B3-9A16-469530F82EFA}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Thruster" ID="{564A30A9-C9CA-48E5-89E5-0E46D3F7EE6E}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ShipHit" ID="{B2FE2CED-1F5D-4945-8411-B881D20F4A9C}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Death" ID="{1781F2C4-DB9B-4D7D-9E06-4BBB8D924550}" WorkUnitID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

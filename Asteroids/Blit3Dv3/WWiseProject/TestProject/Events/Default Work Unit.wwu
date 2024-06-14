@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{4BA8097E-F4E1-48A0-AA84-E7674F98C8B5}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Thruster" ID="{564A30A9-C9CA-48E5-89E5-0E46D3F7EE6E}">
+					<ChildrenList>
+						<Action Name="" ID="{647565B6-3CCC-4B68-8699-CD743C7E42A4}" ShortID="744888814">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Thruster" ID="{3386738F-899E-4C24-B27D-156637B4F929}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PowerUp" ID="{2B56D9B5-5030-4403-A556-4502815DE7CA}">
+					<ChildrenList>
+						<Action Name="" ID="{1A823CAC-07E0-4364-8976-E7EBED9FE3D4}" ShortID="277728821">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PowerUp" ID="{B06BC734-5262-471D-B036-326A888A5665}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Shoot" ID="{091DF24B-F57B-47F7-86D7-9FDB3ADC0678}">
+					<ChildrenList>
+						<Action Name="" ID="{90685307-88EF-4EC4-B6ED-A1A0E0496B4E}" ShortID="756436849">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shoot" ID="{93D5A6A9-B164-4268-A194-3F7013B43403}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Explosion" ID="{AAFE6BC7-9C00-4116-B6D7-841242AD7531}">
+					<ChildrenList>
+						<Action Name="" ID="{45FC6DB6-AFD3-4196-8EA0-B1339BE5A5B6}" ShortID="383239999">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Explosion" ID="{5886D8B3-F379-40C1-A58F-5F137B0ACF1C}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BGMusic" ID="{27362293-27BA-48B3-9A16-469530F82EFA}">
+					<ChildrenList>
+						<Action Name="" ID="{37E09EE4-3D0E-440B-97FA-416E8FDE9923}" ShortID="141722796">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BGMusic" ID="{A4ADB2B4-747D-4BA6-AC3C-1AA5891DCAC0}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="TripleShoot" ID="{A7537F0A-6838-40FC-96CC-F2B1F1558EE4}">
+					<ChildrenList>
+						<Action Name="" ID="{110D52F3-BB11-4FEA-9D2F-2795B1F9A037}" ShortID="525575467">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="TripleShoot" ID="{14C4C5C2-7CDF-4A3B-A063-9CA2DB1325A1}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ShipHit" ID="{B2FE2CED-1F5D-4945-8411-B881D20F4A9C}">
+					<ChildrenList>
+						<Action Name="" ID="{D558064A-D2D7-45BF-8424-60A5C4A7362F}" ShortID="380140769">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ShipHit" ID="{4BD0AEDB-D84D-4DC8-9D71-6C846E1140A0}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Death" ID="{1781F2C4-DB9B-4D7D-9E06-4BBB8D924550}">
+					<ChildrenList>
+						<Action Name="" ID="{7A10C3AA-3E7A-49E2-BD3E-798AE9C6AFF8}" ShortID="610851705">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Death" ID="{9F934CB7-1904-4E43-BBDA-0788A4987C48}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="IntroMusic" ID="{628CD832-80B0-4797-A094-3A20EDE706FE}">
+					<ChildrenList>
+						<Action Name="" ID="{0A192C36-C141-4517-8D82-6761DE8B8694}" ShortID="440997672">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="IntroMusic" ID="{1C01C4D3-F33A-488D-B948-CCE1B4022200}" WorkUnitID="{EC03EE8E-BFCA-4B78-B532-1D8105ACFA3B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
